@@ -1,4 +1,4 @@
-# Automatically mount WebDAV on boot
+# Automatically mount a WebDAV FS on boot
 
 ## Information and prerequisites
 - Note that systemd `.mount` files can also be used.
